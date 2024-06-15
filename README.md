@@ -33,4 +33,6 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/actuallylnd/actuallylnd/output/snake.svg" alt="Snake animation" />
+
 ###
