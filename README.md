@@ -1,5 +1,3 @@
-<h2 align="center">WELCOME</h2>
-
 ###
 
 <div align="center">
