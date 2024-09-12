@@ -26,7 +26,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
 </div>
-  ![VIEWS](https://komarev.com/ghpvc/?username=actuallylnd&abbreviated=true)
 
 ###
 
@@ -34,3 +33,5 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ###
+
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
