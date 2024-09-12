@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
   <a>
-  ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+  ![VIEWS](https://komarev.com/ghpvc/?username=actuallylnd&abbreviated=true)
   </a>
 </div>
 
