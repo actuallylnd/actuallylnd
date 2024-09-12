@@ -25,10 +25,8 @@
   <a href="https://discord.gg/dEv6tm2epA" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
-  <a>
-  ![VIEWS](https://komarev.com/ghpvc/?username=actuallylnd&abbreviated=true)
-  </a>
 </div>
+  ![VIEWS](https://komarev.com/ghpvc/?username=actuallylnd&abbreviated=true)
 
 ###
 
